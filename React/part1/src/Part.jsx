@@ -1,4 +1,5 @@
 const Part = ({ part, exercises }) => {
+
     return (
       <p>
         {part} {exercises}
